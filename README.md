@@ -21,7 +21,7 @@ I am committed to making data-driven decisions that are impactful, scalable, and
 - **Portfolio**: [My Portfolio](https://myportfolio-plum-chi.vercel.app/) 🌐  
 - **LinkedIn**: ([linkedin](https://www.linkedin.com/in/ansh-sharma-a01886207/) 💼  
 - **Resume**: [Download Resume](https://drive.google.com/file/d/1a_NZ-C6Ap45yfZIlqro6AtVnxmkmg1e0/view?usp=sharing) 📄    
-- **GitHub Profile**: [GitHub]((https://github.com/Anshsharma25)) 🐙
+- **GitHub Profile**: [GitHub](https://github.com/Anshsharma25) 🐙
 
 ## 💬 Ask me about:
 - 🔍 **Data Science & Analytics**: Techniques for making sense of complex datasets and providing insights.
@@ -67,7 +67,7 @@ I am deeply passionate about **Computer Vision** and **Image Processing** techni
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anshsharma)
 
 ## 📈 Contribution Graph:
-![GitHub Contribution Graph](https://raw.githubusercontent.com/anshsharma/public-repo/main/assets/graph.png)
+![GitHub Contribution Graph](https://raw.githubusercontent.com/username=anshsharma/public-repo/main/assets/graph.png)
 
 
 ## ⚡ Fun Fact:
