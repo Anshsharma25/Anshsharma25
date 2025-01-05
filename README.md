@@ -17,18 +17,17 @@ To leverage **AI** and **Data Science** to solve complex, real-world problems an
 I am committed to making data-driven decisions that are impactful, scalable, and sustainable. 🌟
 
 ## 📞 Let's Connect:
-- **Email**: [ansh.sharma@example.com](mailto:ansh.sharma@example.com) 📧  
-- **Portfolio**: [My Portfolio](#) 🌐  
-- **LinkedIn**: [Ansh Sharma on LinkedIn](https://www.linkedin.com/in/anshsharma) 💼  
-- **Resume**: [Download Resume](#) 📄  
-- **Medium**: [My Medium Articles](#) ✍️  
+- **Email**: [ansh.sharma@example.com](mailto:ansh25032003@gmail.com  ) 📧  
+- **Portfolio**: [My Portfolio](https://myportfolio-plum-chi.vercel.app/) 🌐  
+- **LinkedIn**: [Ansh Sharma on LinkedIn]([https://www.linkedin.com/in/anshsharma]) 💼  
+- **Resume**: [Download Resume](https://drive.google.com/file/d/17EexTKGqa99n5Fnx3OtWTUCCF-tI5R9R/view) 📄    
 - **GitHub Profile**: [Ansh Sharma on GitHub](https://github.com/anshsharma) 🐙
 
 ## 💬 Ask me about:
 - 🔍 **Data Science & Analytics**: Techniques for making sense of complex datasets and providing insights.
 - 🤖 **Machine Learning & AI**: Building predictive models, developing intelligent systems, and working with neural networks.
 - 🧠 **Deep Learning & NLP**: Advanced techniques like CNNs, RNNs, transformers, and NLP for text processing.
-- 🖼️ **Computer Vision & Image Processing**: Working with visual data, object detection, face recognition, and more. 📸
+- 🖼️ **Computer Vision & Image Processing**: Working with visual data, YOLO, object detection, face recognition, and more. 📸
 - ☁️ **Cloud-based Solutions & Data Engineering**: Building scalable and efficient systems for data processing and analytics.
 
 ## 🖼️ Computer Vision & Image Processing:
@@ -46,24 +45,20 @@ I am deeply passionate about **Computer Vision** and **Image Processing** techni
 - 🏆 **Project Achievements**: Published multiple **Power BI** dashboards for **doctor-patient insights** and **retail analysis**  
 - 💡 **Open Source Contributions**: Contributed to various open-source machine learning libraries and data science tutorials
 
-## 🌐 Socials:
-- [LinkedIn](https://www.linkedin.com/) | [Medium](https://medium.com/) | [Twitter](https://twitter.com/)  
-- [Stack Overflow](https://stackoverflow.com/) | [YouTube](https://www.youtube.com/) | [Codepen](https://codepen.io/)  
-- [Instagram](https://www.instagram.com/) | [Facebook](https://www.facebook.com/)
 
 ## 💻 Tech Stack:
 - **Data Science & AI**:  
-  - 🧑‍💻 **Python**, **R**, **TensorFlow**, **PyTorch**, **Scikit-learn**, **OpenCV**, **Keras**, **NLTK**, **SpaCy**, **Matplotlib**, **Pandas**, **NumPy**, **Seaborn**, **Plotly**  
+  - 🧑‍💻 **Python**, **TensorFlow**, **PyTorch**, **Scikit-learn**, **OpenCV**, **Keras**, **NLTK**, **SpaCy**, **Matplotlib**, **Pandas**, **NumPy**, **Seaborn**, **Plotly**  
 - **Frontend**:  
-  - ⚛️ **React**, **Redux**, **Next.js**, **HTML5**, **CSS3**, **JavaScript**, **TailwindCSS**, **Chakra UI**, **Bootstrap**  
+  -  **HTML5**, **CSS3**, **JavaScript**
 - **Backend**:  
-  - 🖥️ **Python**, **Node.js**, **Express.js**, **FastAPI**, **MongoDB**, **PostgreSQL**, **MySQL**, **Flask**, **GraphQL**  
+  - 🖥️ **Python**, **FastAPI**, **MongoDB**, **PostgreSQL**, **MySQL**, **Flask** 
 - **Cloud/DevOps**:  
-  - ☁️ **AWS**, **Azure**, **Firebase**, **Heroku**, **Docker**, **Kubernetes**, **CI/CD Pipelines**, **Google Cloud**  
+  - ☁️ **AWS**, **Azure**, **Heroku**, **Docker**, **Kubernetes**, **CI/CD Pipelines**, **Google Cloud**  
 - **Tools**:  
   - 🛠️ **Git**, **GitHub**, **GitLab**, **Jenkins**, **Jupyter Notebooks**, **Power BI**, **Tableau**, **Figma**, **Canva**, **VS Code**, **PyCharm**  
 - **Languages**:  
-  - 📝 **Python**, **JavaScript**, **SQL**, **TypeScript**, **Java**, **HTML/CSS**
+  - 📝 **Python**, **JavaScript**, **SQL**, **HTML/CSS**
 
 ## 📊 GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshsharma&show_icons=true&count_private=true&hide_title=true)
