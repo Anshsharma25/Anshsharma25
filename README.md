@@ -19,9 +19,9 @@ I am committed to making data-driven decisions that are impactful, scalable, and
 ## 📞 Let's Connect:
 - **Email**: [ansh.sharma@example.com](mailto:ansh25032003@gmail.com  ) 📧  
 - **Portfolio**: [My Portfolio](https://myportfolio-plum-chi.vercel.app/) 🌐  
-- **LinkedIn**: [Ansh Sharma on LinkedIn]([https://www.linkedin.com/in/anshsharma]) 💼  
-- **Resume**: [Download Resume](https://drive.google.com/file/d/17EexTKGqa99n5Fnx3OtWTUCCF-tI5R9R/view) 📄    
-- **GitHub Profile**: [Ansh Sharma on GitHub](https://github.com/anshsharma) 🐙
+- **LinkedIn**: ([linkedin](https://www.linkedin.com/in/ansh-sharma-a01886207/) 💼  
+- **Resume**: [Download Resume](https://drive.google.com/file/d/1a_NZ-C6Ap45yfZIlqro6AtVnxmkmg1e0/view?usp=sharing) 📄    
+- **GitHub Profile**: [GitHub]((https://github.com/Anshsharma25)) 🐙
 
 ## 💬 Ask me about:
 - 🔍 **Data Science & Analytics**: Techniques for making sense of complex datasets and providing insights.
@@ -67,7 +67,8 @@ I am deeply passionate about **Computer Vision** and **Image Processing** techni
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anshsharma)
 
 ## 📈 Contribution Graph:
-![GitHub Contribution Graph](https://github.com/anshsharma/anshsharma/blob/main/assets/graph.png)
+![GitHub Contribution Graph](https://raw.githubusercontent.com/anshsharma/public-repo/main/assets/graph.png)
+
 
 ## ⚡ Fun Fact:
 I believe in the power of **AI** and **data** to change the world. 🌍 Whether it's improving healthcare, driving innovation in tech, or solving global challenges, data can unlock the future. 💡  
