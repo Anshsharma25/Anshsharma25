@@ -20,7 +20,7 @@ I am committed to making data-driven decisions that are impactful, scalable, and
 - **Email**: [ansh.sharma@example.com](mailto:ansh25032003@gmail.com  ) 📧  
 - **Portfolio**: [My Portfolio](https://myportfolio-plum-chi.vercel.app/) 🌐  
 - **LinkedIn**: [linkedin](https://www.linkedin.com/in/ansh-sharma-a01886207/) 💼  
-- **Resume**: [Download Resume](https://drive.google.com/file/d/1a_NZ-C6Ap45yfZIlqro6AtVnxmkmg1e0/view?usp=sharing) 📄    
+- **Resume**: [Download Resume](https://drive.google.com/file/d/1LWlnZy16YuBk7muBI7jBM4GrNoBtWpC1/view?usp=sharing) 📄    
 - **GitHub Profile**: [GitHub](https://github.com/Anshsharma25) 🐙
 
 ## 💬 Ask me about:
