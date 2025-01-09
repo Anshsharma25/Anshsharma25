@@ -1,4 +1,4 @@
-# Hi 👋, I'm Ansh Sharma
+# Hi, I'm Ansh Sharma
 
 🔹 **Data Scientist & Analyst** | Passionate about using machine learning, deep learning, and data analytics to solve real-world problems. 🤖  
 🔹 **AI Enthusiast** | Exploring cutting-edge AI technologies, computer vision, and data-driven decision-making. 💡  
