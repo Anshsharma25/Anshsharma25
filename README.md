@@ -1,6 +1,6 @@
 # Hi, I'm Ansh Sharma
 
-🔹 **Data Scientist & Analyst** | Passionate about using machine learning, deep learning, and data analytics to solve real-world problems. 🤖  
+🔹 **Data Scientist & Analyst** | Passionate about using machine learning, deep learning, and data analytics to solve real-world problems.🤖  
 🔹 **AI Enthusiast** | Exploring cutting-edge AI technologies, computer vision, and data-driven decision-making. 💡  
 🔹 **Full Stack Developer** | Building applications with Python, Node.js, and React. 💻  
 🔹 **Tech Speaker & Content Creator** | Sharing knowledge and experiences with the tech community. 🎤✍️  
