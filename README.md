@@ -66,7 +66,6 @@ I am deeply passionate about **Computer Vision** and **Image Processing** techni
 ## 🏆 GitHub Trophies:
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anshsharma)
 
-
 ## ⚡ Fun Fact:
 I believe in the power of **AI** and **data** to change the world. 🌍 Whether it's improving healthcare, driving innovation in tech, or solving global challenges, data can unlock the future. 💡  
 🚀 "The best way to predict the future is to create it." — **Abraham Lincoln**  
