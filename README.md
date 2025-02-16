@@ -79,4 +79,3 @@ To create impactful solutions using **AI** and **Machine Learning** that solve r
 
 ## 📚 Blogs & Publications:
 - 📖 **[My Articles on Medium](https://medium.com/@anshsharma)** - Sharing insights on data science, AI, and tech innovations.
-- 📝 **[Tech Blog on Dev.to](https://dev.to/)** - My thoughts on the latest trends in tech and data science.
