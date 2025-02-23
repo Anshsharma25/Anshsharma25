@@ -75,7 +75,7 @@ Also, I'm obsessed with **coffee** and I believe it's the fuel behind every grea
 - [BuyMeACoffee](https://www.buymeacoffee.com/) ☕
 
 ## 🎯 My Goal:
-To create impactful solutions using **AI** and **Machine Learning** that solve real-world problems. 🌟 I'm focused on leveraging AI in fields such as healthcare, finance, and sustainability to create systems that benefit people and the planet.
+To create impactful solutions using **AI** and **Machine Learning**  and **Computer Vision** that solve real-world problems. 🌟 I'm focused on leveraging AI in fields such as healthcare, finance, and sustainability to create systems that benefit people and the planet.
 
 ## 📚 Blogs & Publications:
 - 📖 **[My Articles on Medium](https://medium.com/@anshsharma)** - Sharing insights on data science, AI, and tech innovations.
