@@ -54,9 +54,9 @@ I am deeply passionate about **Computer Vision** and **Image Processing** techni
 - **Backend**:  
   - 🖥️ **Python**, **FastAPI**, **MongoDB**, **PostgreSQL**, **MySQL**, **Flask** 
 - **Cloud/DevOps**:  
-  - ☁️ **AWS**, **Azure**, **Heroku**, **Docker**, **Kubernetes**, **CI/CD Pipelines**, **Google Cloud**  
+  - ☁️ **AWS**, **Render**, **App Runner**, **Elastic Bean**, **Docker**, **EC2**, **CI/CD Pipelines**, **Google Cloud**  
 - **Tools**:  
-  - 🛠️ **Git**, **GitHub**, **GitLab**, **Jenkins**, **Jupyter Notebooks**, **Power BI**, **Tableau**, **Figma**, **Canva**, **VS Code**, **PyCharm**  
+  - 🛠️ **Git**, **GitHub**, **GitLab**, **Jupyter Notebooks**, **Power BI**, **Tableau**, **Canva**, **VS Code**, **PyCharm**  
 - **Languages**:  
   - 📝 **Python**, **JavaScript**, **SQL**, **HTML/CSS**
 
