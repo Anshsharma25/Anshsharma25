@@ -1,23 +1,23 @@
 # Hi, I'm Ansh Sharma
 
-🔹 **Data Scientist & Analyst** | Passionate about solving real-world problems with machine learning, deep learning, and data analytics. 🤖  
-🔹 **AI Enthusiast** | Exploring cutting-edge AI technologies, computer vision, and data-driven decision-making. 💡  
+🔹 **Data Scientist & AI Engineer** | Passionate about solving real-world problems with machine learning, deep learning, and data analytics. 🤖  
+🔹 **AI & Cloud Enthusiast** | Exploring cutting-edge AI technologies, cloud computing, and scalable solutions. 💡  
 🔹 **Full Stack Developer** | Proficient in building applications using Python, Node.js, and React. 💻  
-🔹 **Tech Speaker & Content Creator** | Sharing knowledge and experiences with the tech community. 🎤✍️  
+🔹 **Tech Speaker & Mentor** | Sharing knowledge and guiding the next generation of data scientists. 🎤✍️  
 
 ---
 
-## 🌱 Currently Learning:
-- 📚 **Advanced Machine Learning**  
-- 🧠 **Deep Learning & NLP**  
-- 🌩️ **AI & Cloud Computing**  
-- 🔧 **Data Engineering & Pipelines**  
+## 🌱 Currently Exploring:
+- 📚 **Advanced Machine Learning & LLMs**  
+- 🧠 **Deep Learning & Reinforcement Learning**  
+- 🌩️ **AI & Cloud Deployments with Kubernetes & Serverless**  
+- 🔧 **MLOps, Data Engineering & Automation**  
 
 ---
 
 ## 🚀 Mission:
-To leverage **AI** and **Data Science** to solve complex, real-world problems and drive innovation across industries. 🌍  
-Committed to making data-driven decisions that are impactful, scalable, and sustainable. 🌟  
+To develop AI-driven solutions that solve **complex, real-world problems** and drive **scalable innovation** across industries. 🌍  
+Committed to creating intelligent systems that are **impactful, explainable, and sustainable**. 🌟  
 
 ---
 
@@ -31,45 +31,45 @@ Committed to making data-driven decisions that are impactful, scalable, and sust
 ---
 
 ## 💬 Ask Me About:
-- 🔍 **Data Science & Analytics**: Extracting insights from complex datasets.
-- 🤖 **Machine Learning & AI**: Building predictive models & intelligent systems.
-- 🧠 **Deep Learning & NLP**: Working with CNNs, RNNs, Transformers.
-- 🖼️ **Computer Vision & Image Processing**: YOLO, object detection, face recognition.
-- ☁️ **Cloud & Data Engineering**: Scalable data processing & analytics.
+- 🔍 **Data Science & AI**: Cutting-edge techniques for data-driven decision-making.
+- 🤖 **LLMs, Transformers & Generative AI**: Building & fine-tuning AI models like GPT, BERT, and Stable Diffusion.
+- 🧠 **Deep Learning & Computer Vision**: Advanced techniques like CNNs, GANs, and vision transformers.
+- 🖼️ **AI-Powered Automation**: Building smart AI workflows for business automation.
+- ☁️ **MLOps & AI Deployment**: CI/CD for ML, scalable AI pipelines, and cloud solutions.
 
 ---
 
-## 🖼️ Computer Vision & Image Processing:
-- 📸 **Object Detection**: YOLO, SSD, Faster R-CNN for real-time classification.
-- 🧠 **Image Classification**: CNN-based pattern recognition.
-- 🏞️ **Image Segmentation**: Advanced segmentation techniques for better insights.
-- 🎥 **Video Processing**: Live streaming & real-time object analysis.
-- 🧑‍💻 **Face Recognition**: OpenCV, Dlib for facial detection.
-- 💻 **Image Enhancement**: Contrast adjustment, noise reduction.
+## 🖼️ AI & Computer Vision:
+- 📸 **Object Detection & Tracking**: YOLO, Faster R-CNN, DETR for real-time applications.
+- 🏞️ **Image & Video Processing**: AI-based enhancement, super-resolution.
+- 🎥 **Edge AI & IoT AI Models**: Running AI models on edge devices for real-time insights.
+- 🏆 **AI for Medical Imaging**: Deep learning for disease detection & medical diagnostics.
 
 ---
 
 ## 🏆 Achievements:
-- 🎓 **Certifications**: Full Stack Data Science Pro (PW Skills), ICT (Honeywell) Certified Data Analyst (Power BI), Big Data Analysis (CDAC - NASSCOM)
-- 🏅 **HackerRank**: 5-star rating in Python and SQL.
-- 🏆 **Projects**: Power BI dashboards for **doctor-patient insights** & **retail analysis**.
-- 💡 **Open Source**: Contributions to ML libraries & data science tutorials.
+- 🎓 **Certifications**: Full Stack Data Science Pro (PW Skills),
+                         ICT (Honeywell) Certified Data Analyst (Power BI),
+                         Big Data Analysis (CDAC - NASSCOM)
+- 🏅 **HackerRank**: 5-star rating in Python, SQL, and AI challenges.
+- 🏆 **Projects**: Developed AI-powered **healthcare prediction models** & **real-time surveillance AI**.
+- 💡 **Open Source**: Active contributor to **ML frameworks & AI research papers**.
 
 ---
 
 ## 💻 Tech Stack:
 ### **Data Science & AI:**  
-🧑‍💻 **Python**, **TensorFlow**, **PyTorch**, **Scikit-learn**, **OpenCV**, **Keras**, **NLTK**, **SpaCy**, **Matplotlib**, **Pandas**, **NumPy**, **Seaborn**, **Plotly**  
+🧑‍💻 **Python**, **TensorFlow**, **PyTorch**, **Hugging Face**, **OpenCV**, **Scikit-learn**, **Transformers**, **Dask**, **Ray**  
 
-### **Full-Stack Development:**  
-🖥️ **Frontend:** HTML5, CSS3, JavaScript  
-⚙️ **Backend:** Python (Flask, FastAPI), Node.js  
-🗄️ **Databases:** MongoDB, PostgreSQL, MySQL  
-☁️ **Cloud & DevOps:** AWS, Render, Docker, EC2, CI/CD Pipelines, Google Cloud  
-🛠️ **Tools:** Git, GitHub, Jupyter, Power BI, Tableau, VS Code, PyCharm  
+### **Full-Stack Development & APIs:**  
+🖥️ **Frontend:** HTML, CSS 
+⚙️ **Backend:** FastAPI, Flask, Django, GraphQL  
+🗄️ **Databases:** PostgreSQL, MongoDB, OracleSQL, MySQL.  
+☁️ **Cloud & DevOps:** AWS,EC2, Docker, Elastic Bean, CI/CD Pipelines  
+🛠️ **Tools:** Git, GitHub Actions, Jupyter, Power BI, MLflow, Airflow  
 
-### **Languages:**  
-📝 **Python**, **JavaScript**, **SQL**, **HTML/CSS**
+### **Programming Languages:**  
+📝 **Python**, **JavaScript**, **SQL**
 
 ---
 
@@ -84,9 +84,9 @@ Committed to making data-driven decisions that are impactful, scalable, and sust
 ---
 
 ## ⚡ Fun Fact:
-I believe in the power of **AI** and **data** to change the world. 🌍 Whether it's healthcare, tech innovation, or solving global challenges, data unlocks the future. 💡  
-🚀 *"The best way to predict the future is to create it."* — **Abraham Lincoln**  
-Also, I’m obsessed with **coffee** ☕— the fuel behind every great tech innovation!  
+I believe in the power of **AI** and **data** to **revolutionize industries**. 🌍 Whether it's **healthcare, automation, finance**, or **sustainability**, AI is **reshaping the future**. 💡  
+🚀 *"Innovation is seeing what everybody has seen and thinking what nobody has thought."* — **Albert Szent-Györgyi**  
+Also, I’m obsessed with **coffee** ☕— the real fuel behind every AI breakthrough!  
 
 ---
 
@@ -95,12 +95,11 @@ Also, I’m obsessed with **coffee** ☕— the fuel behind every great tech inn
 
 ---
 
-## 🎯 Goal:
-To create impactful AI & **Machine Learning** solutions that solve real-world problems. 🌟
-Focusing on **healthcare, finance, and sustainability** to build AI systems that benefit people and the planet.
+## 🎯 Future Vision:
+To push the boundaries of **AI & Deep Learning** by integrating it with **cloud, automation, and real-time analytics**.  
+Focusing on **LLMs, multimodal AI, and MLOps** to build systems that scale globally. 🌍
 
 ---
 
 ## 📚 Blogs & Publications:
-📖 **[Medium Articles](https://medium.com/@anshsharma)** - Insights on data science, AI, and tech innovations.
-
+📖 **[Medium Articles](https://medium.com/@anshsharma)** - AI, cloud, and emerging tech insights.
