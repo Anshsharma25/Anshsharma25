@@ -22,7 +22,7 @@ Committed to creating intelligent systems that are **impactful, explainable, and
 ---
 
 ## 📞 Let's Connect:
-- 📧 **Email**: [ansh.sharma@example.com](mailto:ansh25032003@gmail.com)
+- 📧 **Email**: [ansh.sharma@example.com](ansh25032003@gmail.com)
 - 🌐 **Portfolio**: [My Portfolio](https://myportfolio-plum-chi.vercel.app/)
 - 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ansh-sharma-a01886207/)
 - 📄 **Resume**: [Download Resume](https://drive.google.com/file/d/1LWlnZy16YuBk7muBI7jBM4GrNoBtWpC1/view?usp=sharing)
