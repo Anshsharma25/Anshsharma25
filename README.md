@@ -3,7 +3,8 @@
 🔹 **Data Scientist & AI Engineer** | Passionate about solving real-world problems with machine learning, deep learning, and data analytics. 🤖  
 🔹 **AI & Cloud Enthusiast** | Exploring cutting-edge AI technologies, cloud computing, and scalable solutions. 💡  
 🔹 **Full Stack Developer** | Proficient in building applications using Python, Node.js, and React. 💻  
-🔹 **Tech Speaker & Mentor** | Sharing knowledge and guiding the next generation of data scientists. 🎤✍️  
+🔹 **Tech Speaker & Mentor** | Sharing knowledge and guiding the next generation of data scientists. 🎤✍️ 
+
 
 ---
 
