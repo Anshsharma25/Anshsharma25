@@ -5,7 +5,6 @@
 🔹 **Full Stack Developer** | Proficient in building applications using Python, Node.js, and React. 💻  
 🔹 **Tech Speaker & Mentor** | Sharing knowledge and guiding the next generation of data scientists. 🎤✍️ 
 
-
 ---
 
 ## 🌱 Currently Exploring:
