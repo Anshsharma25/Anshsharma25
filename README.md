@@ -1,106 +1,119 @@
-# Hi, I'm Ansh Sharma
+# 👨‍💻 Ansh Sharma — Data Scientist | AI Engineer | Vision Systems Specialist
 
-🔹 **Data Scientist & AI Engineer** | Passionate about solving real-world problems with ML, DL, and data analytics. 🤖  
-🔹 **AI & Cloud Enthusiast** | Exploring cutting-edge AI technologies, cloud computing, and scalable solutions. 💡  
-🔹 **Full Stack Developer** | Proficient in building applications using Python, Node.js, and React. 💻  
-🔹 **Tech Speaker & Mentor** | Sharing knowledge and guiding the next generation of data scientists. 🎤✍️ 
+> "Turning real-world complexity into AI-powered simplicity."
 
----
-
-## 🌱 Currently Exploring:
-- 📚 **Advanced Machine Learning & LLMs**  
-- 🧠 **Deep Learning & Reinforcement Learning**  
-- 🌩️ **AI & Cloud Deployments with Kubernetes & Serverless**  
-- 🔧 **MLOps, Data Engineering & Automation**  
+🔬 Entry-Level Data Scientist with deep expertise in **Computer Vision**, **Cloud AI Deployment**, and **ML Systems Engineering**.  
+⚙️ Proven ability to design, build, and deploy **end-to-end AI solutions** that scale—from data pipelines to real-time inference.  
+🌐 Passionate about **LLMs, Autonomous Agents, MLOps**, and the ethical application of intelligent systems in industry.
 
 ---
 
-## 🚀 Mission:
-To develop AI-driven solutions that solve **complex, real-world problems** and drive **scalable innovation** across industries. 🌍  
-Committed to creating intelligent systems that are **impactful, explainable, and sustainable**. 🌟  
+## 🔎 Professional Snapshot
+
+- 🧠 **AI Engineer @ Tamar Software LLP** – Delivered YOLOv8-based object detection systems for live video at scale (1,000+ users).
+- ☁️ **Cloud-Deployed ML Architectures** – Seamless integration on **AWS EC2** with Dockerized deployments and CI/CD pipelines.
+- 📊 **Data-Centric Modeling** – Leveraging structured and unstructured data for predictive analytics, classification, and automation.
+- 🛠️ **Agentic AI Enthusiast** – Actively building with **CrewAI** and **LangChain** to explore multi-agent systems.
 
 ---
 
-## 📞 Let's Connect:
-- 📧 **Email**: [ansh.sharma@gmail.com](mailto:ansh25032003@gmail.com  )   
-- 🌐 **Portfolio**: [My Portfolio](https://myportfolio-plum-chi.vercel.app/)
-- 💼 **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/ansh-sharma-a01886207/)
-- 📄 **Resume**: [Download Resume](https://drive.google.com/file/d/1LWlnZy16YuBk7muBI7jBM4GrNoBtWpC1/view?usp=sharing)
-- 🐙 **GitHub**: [GitHub Profile](https://github.com/Anshsharma25)
+## 💼 Experience
+
+### 🔹 **Data Science Intern**  
+**Tamar Software LLP** | *Jul 2024 – Present*
+- Engineered a YOLOv8 pipeline for real-time object detection in video streams (production-scale).
+- Deployed and optimized model lifecycle on **AWS EC2** using Docker + Streamlit.
+- Boosted model performance by **84%** through iterative hyperparameter tuning and data-centric approaches.
 
 ---
 
-## 💬 Ask Me About:
-- 🔍 **Data Science & AI**: Cutting-edge techniques for data-driven decision-making.
-- 🤖 **LLMs, Transformers & Generative AI**: Building & fine-tuning AI models like GPT, BERT, and Stable Diffusion.
-- 🧠 **Deep Learning & Computer Vision**: Advanced techniques like CNNs, GANs, and vision transformers.
-- 🖼️ **AI-Powered Automation**: Building smart AI workflows for business automation.
-- ☁️ **MLOps & AI Deployment**: CI/CD for ML, scalable AI pipelines, and cloud solutions.
+## 🚀 Flagship Projects
+
+### 📦 **Automated Dustbin Detection System**
+> YOLOv8 | AWS EC2 | Custom Dataset (5K+)  
+Trained and deployed an AI model to classify **biodegradable vs. non-biodegradable waste** in real-time with 88% accuracy.
+
+### ✋ **Sign Language Recognition**
+> LSTM | Real-Time Inference | Data Augmentation  
+Designed an LSTM-based model for live hand gesture classification (96% accuracy) with reduced training time (−30%).
+
+### 💧 **Dry vs. Wet Object Classification**
+> YOLOv8m | Custom CV Dataset (2.6K images)  
+Built a lightweight vision model to distinguish object types in dynamic environments.
+
+### 📄 **OCR-Based Invoice Parser**
+> Tesseract | Flask | CSV/Excel Export  
+Built a robust OCR pipeline to extract structured data from messy invoices with >92% precision.
+
+### 🤖 **Autonomous Research Agent System**
+> CrewAI + LangChain | RAG | LLM Tooling  
+Designed a task-driven multi-agent architecture for content creation, enabling +40% productivity in summarization pipelines.
 
 ---
 
-## 🖼️ AI & Computer Vision:
-- 📸 **Object Detection & Tracking**: YOLO, Faster R-CNN, DETR for real-time applications.
-- 🏞️ **Image & Video Processing**: AI-based enhancement, super-resolution.
-- 🎥 **Edge AI & IoT AI Models**: Running AI models on edge devices for real-time insights.
-- 🏆 **AI for Medical Imaging**: Deep learning for disease detection & medical diagnostics.
+## 🧰 Technical Toolbox
+
+### 💻 Programming & Scripting  
+`Python`, `SQL`, `JavaScript`, `HTML/CSS`
+
+### 🧪 ML/DL Frameworks  
+`TensorFlow`, `PyTorch`, `Scikit-learn`, `Keras`, `YOLOv8`, `OpenCV`, `Tesseract`
+
+### 📊 Data Analysis & Visualization  
+`Pandas`, `NumPy`, `Power BI`, `Matplotlib`, `Seaborn`, `Excel`, `Plotly`, `Bokeh`
+
+### ⚙️ DevOps, MLOps & Cloud  
+`AWS EC2`, `Docker`, `MLflow`, `CI/CD Pipelines`, `GitHub Actions`, `Streamlit`, `Flask`
+
+### 🧠 LLMs & AI Research Tools  
+`LangChain`, `CrewAI`, `Hugging Face Transformers`
+
+### 🗃️ Databases  
+`MongoDB`, `PostgreSQL`, `MySQL`, `OracleSQL`
 
 ---
 
-## 🏆 Achievements:
-- 🎓 **Certifications**: Full Stack Data Science Pro (PW Skills),
-                         ICT (Honeywell) Certified Data Analyst (Power BI),
-                         Big Data Analysis (CDAC - NASSCOM)
-- 🏅 **HackerRank**: 5-star rating in Python, SQL, and AI challenges.
-- 🏆 **Projects**: Developed AI-powered **healthcare prediction models** & **real-time surveillance AI**.
-- 💡 **Open Source**: Active contributor to **ML frameworks & AI research papers**.
+## 📜 Certifications
+
+- ✅ **Certified Data Analyst – Power BI** (ICT Honeywell, 2024)  
+- ✅ **Full Stack Data Science Pro** – PW Skills (2023)  
+- ✅ **Big Data Analysis** – CDAC, NASSCOM (2023)  
+- 🌟 **5-Star HackerRank** – Python & SQL
+
+---
+
+## 🎯 Vision & Values
+
+I believe in designing **AI systems that are responsible, interpretable, and aligned with human goals**. My mission is to contribute to the development of next-generation AI solutions that are:
+
+- 🔍 **Explainable & Transparent**  
+- ⚙️ **Scalable & Performant**  
+- 🌱 **Ethical & Sustainable**
+
+---
+
+## 📬 Let’s Connect
+
+- 📧 Email: [anshsharma8nbi@gmail.com](mailto:anshsharma8nbi@gmail.com)  
+- 🌐 Portfolio: [myportfolio-plum-chi.vercel.app](https://myportfolio-plum-chi.vercel.app/)  
+- 💼 LinkedIn: [linkedin.com/in/ansh-sharma-a01886207](https://www.linkedin.com/in/ansh-sharma-a01886207/)  
+- 🐙 GitHub: [github.com/Anshsharma25](https://github.com/Anshsharma25)  
+- 📄 Resume: [Download Resume](https://drive.google.com/file/d/1LWlnZy16YuBk7muBI7jBM4GrNoBtWpC1/view?usp=sharing)  
+- 📝 Blog: [medium.com/@anshsharma](https://medium.com/@anshsharma)
+
+---
+
+## 📈 GitHub Insights
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anshsharma25&show_icons=true&theme=radical&count_private=true)
 
 
 ---
 
-## 💻 Tech Stack:
-### **Data Science & AI:**  
-🧑‍💻 **Python**, **TensorFlow**, **PyTorch**, **Hugging Face**, **OpenCV**, **Scikit-learn**, **Transformers**, **Dask**, **Ray**  
+## ☕ Support My Work
 
-### **Full-Stack Development & APIs:**  
-🖥️ **Frontend:** HTML, CSS 
-⚙️ **Backend:** FastAPI, Flask, Django, GraphQL  
-🗄️ **Databases:** PostgreSQL, MongoDB, OracleSQL, MySQL.  
-☁️ **Cloud & DevOps:** AWS,EC2, Docker, Elastic Bean, CI/CD Pipelines  
-🛠️ **Tools:** Git, GitHub Actions, Jupyter, Power BI, MLflow, Airflow  
-
-### **Programming Languages:**  
-📝 **Python**, **JavaScript**, **SQL**
+If you find my work valuable, consider buying me a coffee:  
+[BuyMeACoffee](https://www.buymeacoffee.com/) ☕
 
 ---
 
-## 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=anshsharma&show_icons=true&count_private=true&hide_title=true)
-
----
-
-## 🏆 GitHub Trophies:
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=anshsharma)
-
----
-
-## ⚡ Fun Fact:
-I believe in the power of **AI** and **data** to **revolutionize industries**. 🌍 Whether it's **healthcare, automation, finance**, or **sustainability**, AI is **reshaping the future**. 💡  
-🚀 *"Innovation is seeing what everybody has seen and thinking what nobody has thought."* — **Albert Szent-Györgyi**  
-Also, I’m obsessed with **coffee** ☕— the real fuel behind every AI breakthrough!  
-
----
-
-## 💰 Support My Work:
-- [BuyMeACoffee](https://www.buymeacoffee.com/) ☕
-
----
-
-## 🎯 Future Vision:
-To push the boundaries of **AI & Deep Learning** by integrating it with **cloud, automation, and real-time analytics**.  
-Focusing on **LLMs, multimodal AI, and MLOps** to build systems that scale globally. 🌍
-
----
-
-## 📚 Blogs & Publications:
-📖 **[Medium Articles](https://medium.com/@anshsharma)** - AI, cloud, and emerging tech insights.
