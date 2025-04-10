@@ -38,7 +38,7 @@ Trained and deployed an AI model to classify **biodegradable vs. non-biodegradab
 Designed an LSTM-based model for live hand gesture classification (96% accuracy) with reduced training time (−30%).
 
 ### 💧 **Dry vs. Wet Object Classification**
-> YOLOv8m | Custom CV Dataset (2.6K images)  
+> YOLOv8m | Custom CV Dataset (2.6K images). 
 Built a lightweight vision model to distinguish object types in dynamic environments.
 
 ### 📄 **OCR-Based Invoice Parser**
