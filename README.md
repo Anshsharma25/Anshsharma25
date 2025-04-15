@@ -8,6 +8,7 @@
 
 ---
 
+
 ## 🔎 Professional Snapshot
 
 - 🧠 **AI Engineer @ Tamar Software LLP** – Delivered YOLOv8-based object detection systems for live video at scale (1,000+ users).
