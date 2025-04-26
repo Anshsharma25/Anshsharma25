@@ -6,7 +6,7 @@
 ⚙️ Proven ability to design, build, and deploy **end-to-end AI solutions** that scale—from data pipelines to real-time inference.  
 🌐 Passionate about **LLMs, Autonomous Agents, MLOps**, and the ethical application of intelligent systems in industry.
 
-------
+-------
 
 ## 🔎 Professional Snapshot
 
