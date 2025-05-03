@@ -71,7 +71,7 @@ Designed a task-driven multi-agent architecture for content creation, enabling +
 ### 🗃️ Databases  
 `MongoDB`, `PostgreSQL`, `MySQL`, `OracleSQL`
 
-----
+-----
 
 ## 📜 Certifications
 
