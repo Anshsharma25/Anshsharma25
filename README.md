@@ -15,7 +15,7 @@
 - 📊 **Data-Centric Modeling** – Leveraging structured and unstructured data for predictive analytics, classification, and automation.
 - 🛠️ **Agentic AI Enthusiast** – Actively building with **CrewAI** and **LangChain** to explore multi-agent systems.
 
----
+----
 
 ## 💼 Experience
 
