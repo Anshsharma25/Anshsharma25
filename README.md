@@ -13,7 +13,7 @@
 - 🧠 **AI Engineer @ Tamar Software LLP** – Delivered YOLOv8-based object detection systems for live video at scale (1,000+ users).
 - ☁️ **Cloud-Deployed ML Architectures** – Seamless integration on **AWS EC2** with Dockerized deployments and CI/CD pipelines.
 - 📊 **Data-Centric Modeling** – Leveraging structured and unstructured data for predictive analytics, classification, and automation.
-- 🛠️ **Agentic AI Enthusiast** – Actively building with **CrewAI** and **LangChain** to explore multi-agent systems.
+- 🛠️ **Agentic AI Enthusiast** – Actively building with **CrewAI** and **LangChain**  and **LangGraph** to explore multi-agent systems.
 
 ------
 
