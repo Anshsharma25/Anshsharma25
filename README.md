@@ -25,7 +25,7 @@
 - Deployed and optimized model lifecycle on **AWS EC2** using Docker + Streamlit.
 - Boosted model performance by **84%** through iterative hyperparameter tuning and data-centric approaches.
 
----
+----
 
 ## 🚀 Flagship Projects
 
