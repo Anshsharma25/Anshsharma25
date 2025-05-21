@@ -16,7 +16,6 @@
 - 🛠️ **Agentic AI Enthusiast** – Actively building with **CrewAI** and **LangChain**  and **LangGraph** to explore multi-agent systems.
 
 ------
-
 ## 💼 Experience
 
 ### 🔹 **Data Science Intern**  
